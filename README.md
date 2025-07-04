@@ -8,11 +8,13 @@ It includes machine problems (MPs), labs, and assignments from courses such as:
 
 - ECE 408: Parallel Programming (CUDA)  
 - ECE 385: Digital Systems Laboratory  
-- CS  415: Game Development  
-- CS  225: Data Structures
+- CS 415: Game Development  
+- CS 225: Data Structures
 - ECE 220:
-- CS  173:
-- ECE 120:   
+- CS 173:
+- ECE 120:
+- STAT 107:
+- STAT 207:   
 
 ---
 
